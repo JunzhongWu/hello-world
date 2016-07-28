@@ -1,2 +1,3 @@
 # hello-world
-just one new repository
+Try to write something new!
+Add some more new changes!
